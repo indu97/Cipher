@@ -1,4 +1,4 @@
-/* Ceaser cipher created by Pranay Ankit Tiru */
+/* Ceaser cipher created by Pranay Ankit Tiru and Indu C */
 #include <stdio.h>
 #include <stdlib.h>
 int main(void)
